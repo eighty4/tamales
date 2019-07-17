@@ -4,6 +4,8 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/eighty4/sse v0.0.0-20190712212505-5aea7057fac5 h1:/hXqUGHntR8LQq8bP9Y+sOpBCyxWmFAXilGAtEl6zlk=
 github.com/eighty4/sse v0.0.0-20190712212505-5aea7057fac5/go.mod h1:V7VOCyusBVxpZWyKPm0V42i25/lEegLdnuiolNjBS18=
+github.com/eighty4/sse v0.0.0-20190714222728-77cc7b372d89 h1:7t/m0/obmUlslXmBq0WiZUM9t6siUyYi4X6HjAfks1Y=
+github.com/eighty4/sse v0.0.0-20190714222728-77cc7b372d89/go.mod h1:V7VOCyusBVxpZWyKPm0V42i25/lEegLdnuiolNjBS18=
 github.com/gocql/gocql v0.0.0-20190423091413-b99afaf3b163/go.mod h1:4Fw1eo5iaEhDUs8XyuhSVCVy52Jq3L+/3GJgYkwc+/0=
 github.com/gocql/gocql v0.0.0-20190708145057-55a38e15c5db h1:H8yXFMB4EQCkVs/ASWksHUlwDtKfAneZBgEeKKPt93A=
 github.com/gocql/gocql v0.0.0-20190708145057-55a38e15c5db/go.mod h1:Q7Sru5153KG8D9zwueuQJB3ccJf9/bIwF/x8b3oKgT8=
@@ -22,6 +24,7 @@ github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/scylladb/go-reflectx v1.0.1 h1:b917wZM7189pZdlND9PbIJ6NQxfDPfBvUaQ7cjj1iZQ=
 github.com/scylladb/go-reflectx v1.0.1/go.mod h1:rWnOfDIRWBGN0miMLIcoPt/Dhi2doCMZqwMCJ3KupFc=
+github.com/scylladb/gocqlx v1.3.1/go.mod h1:1CisD8Z+VB7ByxGyc3B9OXusRNgWWtCMkO+hNCpgZAc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
