@@ -35,6 +35,7 @@ export default class TamalesMap extends React.Component {
         mapProps.showsCompass = false
         return (
             <MapView style={{flex: 1}} camera={mapProps.camera}>
+                {this.props.children}
             </MapView>
         )
     }
